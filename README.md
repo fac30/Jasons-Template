@@ -1,2 +1,3 @@
-# WorkXX_Topic_Jason
+# Another Good Idea by Jason Warren
+
 Template for Jason's repos
